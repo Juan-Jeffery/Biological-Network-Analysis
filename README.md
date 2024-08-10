@@ -1,6 +1,6 @@
 # Biological-Network-Analysis
 
-Practice various network operations
+Practice network operations
 
 ### 1-1 (Using network1, network2)
   1. calculate the number of nodes and edges
