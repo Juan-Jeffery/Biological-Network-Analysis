@@ -16,6 +16,7 @@ Practice network operations
   3. calculate the distance between node a and node i
   4. list one subgraph containing at least 5 nodes for each network
     a. The listed subgraphs must be weakly connected
+
 ### 1-3 BFS & DF (Using network 1)
   1. find one cut-point and one cut-edge
   2. identify two spanning trees of network 1
