@@ -4,9 +4,9 @@ Practice network operations
 
 ### 1-1 Basic operations of network (Using network1, network2)
   1. calculate the number of nodes and edges
-  2. determine if the network is simple or not
+  2. determine if the network is simple or not \\
     a. if not simple, list all the self-loops and multi-edges
-  3. list all the neighbors of node e and c in the network 1 and 2 respectively
+  3. list all the neighbors of node e and c in the network 1 and 2 respectively \\
     a. if not simple, the duplicated neighbors and self-neighbors must be listed
   4. design a function to check if the inputted two nodes are adjacent
 
@@ -17,7 +17,7 @@ Practice network operations
   4. list one subgraph containing at least 5 nodes for each network
     a. The listed subgraphs must be weakly connected
 
-### 1-3 BFS & DF (Using network 1)
+### 1-3 BFS & DFS (Using network 1)
   1. find one cut-point and one cut-edge
   2. identify two spanning trees of network 1
     a. one is DFS tree; another is BFS tree
