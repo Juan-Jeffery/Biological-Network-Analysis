@@ -35,3 +35,12 @@ Practice network operations
   4. Propose the algorithms with pseudocode doing: \
     a. run BFS with adjacency matrix structure \
     b. run DFS with adjacency list structure
+
+### 2-1 Graph operations (Using network 1)
+  1. Derive two BFS trees \
+    a. Use the started node as the 1st terminal, s \
+    b. Use the last added node as the 2nd terminal, t \
+    c. Run series and parallel operation 
+  2. Write a program to produce a k-Tree graph \
+    • Input: k, n < k + 5 \
+      • Output: a k-Tree graph \
