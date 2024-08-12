@@ -40,7 +40,7 @@ Practice network operations
   1. Derive two BFS trees \
     a. Use the started node as the 1st terminal, s \
     b. Use the last added node as the 2nd terminal, t \
-    c. Run series and parallel operation 
+    c. Run parallel and series operation 
   2. Write a program to produce a k-Tree graph \
     • Input: k, n < k + 5 \
       • Output: a k-Tree graph \
