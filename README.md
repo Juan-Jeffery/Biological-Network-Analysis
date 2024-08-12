@@ -27,3 +27,11 @@ Practice network operations
     c. union \
     d. intersection \
     e. difference: (DFS - BFS) and (BFS - DFS)
+
+### 2-1 Adjacency matrix operations (Using network 1)
+  1. calculate its density \
+  2. output its adjacency and incidence matrix \
+  3. find its transitive closure \
+  4. Propose the algorithms with pseudocode doing: \
+    a. run BFS with adjacency matrix structure \
+    b. run DFS with adjacency list structure
