@@ -36,14 +36,12 @@ Practice network operations
     a. run BFS with adjacency matrix structure \
     b. run DFS with adjacency list structure
 
-### 2-1 Graph operations (Using network 1)
+### 2-2 Graph operations (Using network 1)
   1. Derive two BFS trees \
     a. Use the started node as the 1st terminal, s \
     b. Use the last added node as the 2nd terminal, t \
     c. Run parallel and series operation 
   2. Write a program to produce a k-Tree graph \
     • Input: k, n < k + 5 \
-      • Output: a k-Tree graph \
-### 3-1 Treat networks 3 as a undirected graph (Do condensation for the digraph network 3)
-1. is it strongly orientable?
-2. if yes, find the strongly oriented graph and, find the vertex-cut and its vertex-connectivity
+    • Output: a k-Tree graph \
+
